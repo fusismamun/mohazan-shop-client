@@ -1,0 +1,9 @@
+.insidelayout {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+}
+
+.dropDown-Border {
+    border-bottom: 1px solid #ff694e;
+}

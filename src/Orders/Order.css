@@ -1,0 +1,5 @@
+.insidelayoutOrder {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
